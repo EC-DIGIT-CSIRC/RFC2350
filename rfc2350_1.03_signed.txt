@@ -1,0 +1,300 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+CSIRT Description for EC DIGIT CSIRC
+- ------------------------------------
+
+   1. About this document
+   
+      This document contains a description of EC DIGIT CSIRC in accordance
+      with RFC 2350 [1]. It provides information about the EC DIGIT CSIRC
+      team, its channels of communication, and its roles and 
+      responsibilities based on European Decision 2017/46.
+
+        [1] https://www.ietf.org/rfc/rfc2350.txt   
+
+   1.1 Date of Last Update
+
+        This is version 1.03, published 2019/05/06.
+
+   1.2 Distribution List for Notifications
+
+        There is no distribution list for notifications. 
+        
+   1.3 Locations where this Document May Be Found
+
+        The current version of this CSIRT description document is
+        available on request by sending a mail to 
+        EC-DIGIT-CSIRC@ec.europa.eu
+       
+        Please make sure you are using the latest version.
+
+   1.4 Authenticating this Document
+
+        This document has been signed with the EC DIGIT CSIRC PGP key.  
+
+
+   2. Contact Information
+
+   2.1 Name of the Team
+       
+        "EC DIGIT CSIRC": European Commission-Directorate General for
+        Informatics - Computer Security Incident Response Capability 
+
+   2.2 Address
+
+        European Commission
+        EC DIGIT CSIRC
+        Euro Forum (EUFO) Building
+        10, rue Robert Stumper
+        Office EUFO 04/192
+        L-2557 LUXEMBOURG
+        Grand-Duchy of Luxembourg
+
+   2.3 Time Zone
+
+        Europe/Brussels (GMT+0100, and GMT+0200 from April to October).
+
+   2.4 Telephone Number
+
+        +352 43 01 32601
+
+   2.5 Facsimile Number
+
+        No communication by fax
+
+   2.6 Other Telecommunication
+
+        Mobile phone number and Video conferencing available on request.
+        
+        Members of the constituency have access to closed, secure communication
+        and collaboration platforms.
+
+   2.7 Electronic Mail Address
+
+        EC-DIGIT-CSIRC@ec.europa.eu  This address will reach our team mailbox
+        which is monitored during working hours. 
+
+   2.8 Public Keys and Other Encryption Information
+
+        The EC DIGIT CSIRC has a PGP key, whose KeyID is CF2442A2 and
+        whose fingerprint is
+          4E43 D957 69D3 457D 93D8  CCFD 9399 DF84 CF24 42A2.
+
+        The key and its signatures can be found at public keyservers.
+
+   2.9 Team Members
+
+        David Durvaux is the head of sector responsible for the 
+        EC DIGIT CSIRC team.  Team is currently composed by a group of
+        EU officials and subcontractors clearly identified as such by 
+        their email signature.
+
+   2.10 Other Information
+
+        No other information is publicly available.
+
+   2.11 Points of Customer Contact
+
+        The preferred method for contacting the EC DIGIT CSIRC is via
+        e-mail at <EC-DIGIT-CSIRC@ec.europa.eu>.
+
+        If it is not possible (or not advisable for security reasons)
+        to use e-mail, the EC DIGIT CSIRC can be reached by telephone during
+        regular office hours.  
+
+        The EC DIGIT CSIRC's hours of operation are generally restricted to
+        regular business hours (09:00-17:00 Monday to Friday except
+        EU public holidays).
+
+
+   3. Charter
+
+   3.1 Mission Statement
+
+        The purpose of the EC DIGIT CSIRC is providing the principal 
+        operational IT security incident response capability within 
+        the European Commission.
+
+   3.2 Constituency
+
+        The EC DIGIT CSIRC's constituency is the European Commission.
+        We handle the incidents related to AS42848.
+
+   3.3 Sponsorship and/or Affiliation
+
+        The EC DIGIT CSIRC is part of Security Directorate of 
+        European Commission Directorate General for Informatics.
+
+   3.4 Authority
+
+        The EC DIGIT CSIRC operates under the auspices of, and with the authority
+        delegated by, the European Commission.
+        
+        For further information on the mandate and
+        authority of the Department of Computing Services, please refer to 
+        the COMMISSION DECISION (EU, Euratom) 2017/46 of 10 January 2017 
+        on the security of communication and information systems in the 
+        European Commission available at
+        https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1548167340412&uri=CELEX:32017D0046
+
+        In this frame, EC DIGIT CSIRC may have access to systems and data corporate wide to 
+        detect, analyse and handle computer security incidents. Such activities are performed 
+        according to the rules defined in Regulation (EC) 2018/1725 of 23 October 2018 
+        available at:
+        https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32018R1725
+
+
+   4. Policies
+
+   4.1 Types of Incidents and Level of Support
+
+        The EC DIGIT CSIRC is authorized to address all types of computer
+        security incidents which occur, or threaten to occur, at
+        the European Commission.
+
+   4.2 Co-operation, Interaction and Disclosure of Information
+
+        The EC DIGIT CSIRC collaborates and shares information with CERT-EU
+        and Security Directorate of the Directorate-General for Human Resources 
+        and Security (HR.DS).
+        
+        All requests to EC DIGIT CSIRC are treated with due care.  EC DIGIT CSIRC
+        adheres to the traffic light protocol (TLP).  See
+           https://www.trusted-introducer.org/ISTLPv11.pdf
+        for a description.  Classified messages should be tag in the subject as
+        [TLP Color].  A similar stamp should be clearly visible in other
+        documents, such as PDF files etc, sent to EC DIGIT CSIRC.  If contact is
+        through phone or video conference, the TLP classifications should be
+        stated prior to the delivery of the information.
+
+
+        It is recommended to encrypt sensitive information with the PGP key
+        mentioned above.  Other encryption methods are available upon request.
+
+   4.3 Communication and Authentication
+
+        EC DIGIT CSIRC protects sensitive information in accordance with relevant 
+        regulations and policies within the EU. 
+
+        Communication security (encryption and authentication) is achieved by various means: 
+        S/Mime based email encryption (SECEM), PGP or other agreed means, depending on the sensitivity 
+        level and context. 
+
+
+   5. Services
+
+   5.1 Incident Response
+
+        EC DIGIT CSIRC will assist system administrators in handling the
+        technical and organizational aspects of security incidents occurring at 
+        the European Commission.
+       
+        EC DIGIT CSIRC requires an official security contact from each member of
+        its constituency, typically the site security team.  In particular, it
+        will provide assistance or advice with respect to the following aspects
+        of incident management:
+
+
+   5.1.1 Incident Triage
+
+        - Analysing whether indeed an incident occurred.
+        
+        - Determining the extent of the incident.
+  
+   5.1.2 Incident Coordination
+
+
+       - Analysing available information.
+
+       - Contact the organisation affected.
+    
+       - Facilitating contact with other sites, which may be involved.
+    
+       - Support the organization affected with additional information related to the
+         incident.
+
+
+       - Performing specialized tasks, such as
+         forensic analysis, malware reverse engineering etc. if requested.
+        
+   5.2 Proactive Activities
+
+        The EC DIGIT CSIRC is proactively searching for anomalies on European
+        Commission IT systems to reduce the detection time of IT security incidents (hunting).
+
+
+   6. Incident Reporting Forms
+
+        There are no forms available.  The preferred way of reporting incidents       
+        is by email. 
+        
+
+   7. Disclaimers
+
+        While every precaution will be taken in the preparation of
+        information, notifications and alerts, EC DIGIT CSIRC assumes no
+        responsibility for errors or omissions, or for damages
+        resulting from the use of the information contained within.
+
+
+   6. Acknowlegdements
+
+       The editors gratefully acknowledge the contributed material and
+       editorial scrutiny of Anne Bennett.   Thanks also to Don Stikvoort
+       for assistance reworking the description of Incident Response Team
+       services.
+
+   7. References
+
+      [RFC 2196] Fraser, B., "Site Security Handbook", FYI 8, RFC 2196,
+      September 1997.
+
+      [RFC 1983] Malkin, G., "Internet Users' Glossary", FYI 18, RFC 1983,
+      August 1996.
+   
+      [RFC 2350] Brownlee, N., "Expectations for Computer Security Incident Response" 
+ 
+      [EU 2017/46] European Commission, "COMMISSION DECISION (EU, Euratom) 2017/46
+      of 10 January 2017 on the security of communication and information systems in 
+      the European Commission"
+
+      [EU 2017/46] European Commission, "REGULATION (EU) 2018/1725 OF THE EUROPEAN
+      PARLIAMENT AND OF THE COUNCIL of 23 October 2018 on the protection of natural 
+      persons with regard to the processing of personal data by the Union institutions,
+      bodies, offices and agencies and on the free movement of such data, and repealing 
+      Regulation (EC) No 45/2001 and Decision No 1247/2002/EC"
+
+  8. Security Considerations
+
+      This document discusses the operation of Computer Security Incident
+      Response Teams, and the teams' interactions with their constituencies
+      and with other organizations.  It is, therefore, not directly
+      concerned with the security of protocols, applications, or network
+      systems themselves.  It is not even concerned with particular
+      responses and reactions to security incidents, but only with the
+      appropriate description of the responses provided by CSIRTs.
+
+      Nonetheless, it is vital that the CSIRTs themselves operate securely,
+      which means that they must establish secure communication channels
+      with other teams, and with members of their constituency.  They must
+      also secure their own systems and infrastructure, to protect the
+      interests of their constituency and to maintain the confidentiality
+      of the identity of victims and reporters of security incidents.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJcz+3cAAoJEJOZ34TPJEKibxQP/im6yxv7zG33jzbiW29QkDk1
+BES6nfMu1sD/WAQiwnfesw5tc5Ap3e4kWgwQ3Z42NMyStEOMZdBSjbjGLNLG/6x/
+AgxsUeVCwiQp/3sW5V8gzveaeEb5otdPG6wmX/ijnsE9il5H1BBYD4NHtiFaawNf
+fgWz6b7SAbeKCYjoeDKBkn7iwNWfbXgfe38AeegbgOsCPUWpHz60x97h8sR9U1y8
+S688nsyzs5iedY9BJ0frUlgyrHxZprWCOnM5RpnRuIFoHJHDRoqFVFed5RayYDsJ
+bRxD2bEyfzPc0ZlHLV1OidBQ0OwnXfQe+/qzM9vA168N8do8kb2xT3p0YtZNWfYm
+mjLLVXBimVEbeZiSaQZ42bgAolg5sZ9NKOuXA9WQfoDIeXsQVq42cbtsJHLhTpwU
+cPiB1a3uHtGC2fyp+h0W1O/dzMOB/Y8OsQw0uDPbWpbJwOHeG9lIYGNGSF+MFYaE
+0/7Us1VHY24AUpDKeAF/An3wk2Pj6NTBtNjjWmEE2zvXmi8UP9g3qypVuXh5AQKL
+5n2VPgdYJMND8trMfjbA2cxpG7NiA/opvhKLUkQgQ7R4TAel/5KRG8yloFXUs6Qb
+cmBOVdI2bmU/BFoPyik8K/uZzqykPL64/zTFVg0HxLp8ZagE+hv5/8rAivmq1DAb
+B4puBuD96Y48/0Q6oWJR
+=0onZ
+-----END PGP SIGNATURE-----
